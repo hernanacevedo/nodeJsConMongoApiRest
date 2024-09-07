@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1725658686795" clover="3.2.0">
+  <project timestamp="1725658686795" name="All files">
+    <metrics statements="339" coveredstatements="258" conditionals="28" coveredconditionals="12" methods="39" coveredmethods="26" elements="406" coveredelements="296" complexity="0" loc="339" ncloc="339" packages="11" files="28" classes="28"/>
+    <package name="nodeJsConMongoApiRest">
+      <metrics statements="24" coveredstatements="23" conditionals="8" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="app.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\app.js">
+        <metrics statements="24" coveredstatements="23" conditionals="8" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="13" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="25" count="40" type="stmt"/>
+        <line num="29" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="34" count="3" type="stmt"/>
+        <line num="41" count="3" type="stmt"/>
+        <line num="43" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="47" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="49" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="nodeJsConMongoApiRest.config">
+      <metrics statements="21" coveredstatements="16" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="1"/>
+      <file name="mongo.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\config\mongo.js">
+        <metrics statements="8" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+      </file>
+      <file name="mysql.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\config\mysql.js">
+        <metrics statements="13" coveredstatements="9" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="4" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="nodeJsConMongoApiRest.controllers">
+      <metrics statements="112" coveredstatements="56" conditionals="4" coveredconditionals="1" methods="11" coveredmethods="5"/>
+      <file name="auth.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\controllers\auth.js">
+        <metrics statements="35" coveredstatements="23" conditionals="4" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="37" count="3" type="stmt"/>
+        <line num="38" count="3" type="stmt"/>
+        <line num="39" count="3" type="stmt"/>
+        <line num="40" count="3" type="stmt"/>
+        <line num="42" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="43" count="3" type="stmt"/>
+        <line num="44" count="3" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="51" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="71" count="3" type="stmt"/>
+      </file>
+      <file name="storage.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\controllers\storage.js">
+        <metrics statements="37" coveredstatements="20" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="27" count="3" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="43" count="3" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="63" count="3" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="83" count="3" type="stmt"/>
+      </file>
+      <file name="tracks.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\controllers\tracks.js">
+        <metrics statements="40" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="1"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="42" count="3" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="58" count="3" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="75" count="3" type="stmt"/>
+        <line num="76" count="0" type="stmt"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="87" count="0" type="stmt"/>
+        <line num="91" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="nodeJsConMongoApiRest.docs">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="swagger.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\docs\swagger.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="120" count="3" type="stmt"/>
+        <line num="125" count="3" type="stmt"/>
+        <line num="127" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="nodeJsConMongoApiRest.middleware">
+      <metrics statements="34" coveredstatements="25" conditionals="6" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <file name="rol.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\middleware\rol.js">
+        <metrics statements="13" coveredstatements="9" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="25" count="3" type="stmt"/>
+      </file>
+      <file name="session.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\middleware\session.js">
+        <metrics statements="21" coveredstatements="16" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="38" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="nodeJsConMongoApiRest.models">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\models\index.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="nodeJsConMongoApiRest.models.noSQL">
+      <metrics statements="22" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+      <file name="storage.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\models\noSQL\storage.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+      </file>
+      <file name="tracks.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\models\noSQL\tracks.js">
+        <metrics statements="12" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="53" count="3" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="68" count="1" type="stmt"/>
+        <line num="71" count="3" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+        <line num="90" count="0" type="stmt"/>
+        <line num="93" count="3" type="stmt"/>
+        <line num="94" count="3" type="stmt"/>
+      </file>
+      <file name="users.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\models\noSQL\users.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="38" count="3" type="stmt"/>
+        <line num="39" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="nodeJsConMongoApiRest.routes">
+      <metrics statements="41" coveredstatements="41" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="auth.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\routes\auth.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="29" count="3" type="stmt"/>
+        <line num="31" count="3" type="stmt"/>
+      </file>
+      <file name="index.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\routes\index.js">
+        <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="9" count="12" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="13" count="12" type="stmt"/>
+        <line num="14" count="12" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="9" type="stmt"/>
+        <line num="16" count="9" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+      </file>
+      <file name="storage.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\routes\storage.js">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="36" count="3" type="stmt"/>
+        <line num="65" count="3" type="stmt"/>
+        <line num="90" count="3" type="stmt"/>
+        <line num="122" count="3" type="stmt"/>
+        <line num="124" count="3" type="stmt"/>
+      </file>
+      <file name="tracks.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\routes\tracks.js">
+        <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="40" count="3" type="stmt"/>
+        <line num="69" count="3" type="stmt"/>
+        <line num="97" count="3" type="stmt"/>
+        <line num="142" count="3" type="stmt"/>
+        <line num="173" count="3" type="stmt"/>
+        <line num="174" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="nodeJsConMongoApiRest.test.helper">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="helperData.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\test\helper\helperData.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="43" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="nodeJsConMongoApiRest.utils">
+      <metrics statements="50" coveredstatements="46" conditionals="4" coveredconditionals="1" methods="10" coveredmethods="9"/>
+      <file name="handleError.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\utils\handleError.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="3" type="cond" truecount="0" falsecount="2"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+      </file>
+      <file name="handleJwt.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\utils\handleJwt.js">
+        <metrics statements="12" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="29" count="3" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="37" count="3" type="stmt"/>
+      </file>
+      <file name="handleLogger.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\utils\handleLogger.js">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="6" count="20" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+      </file>
+      <file name="handlePassword.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\utils\handlePassword.js">
+        <metrics statements="7" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+      </file>
+      <file name="handlePropertiesEngine.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\utils\handlePropertiesEngine.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="6" type="stmt"/>
+        <line num="11" count="6" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+      </file>
+      <file name="handleStorage.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\utils\handleStorage.js">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+      </file>
+      <file name="handleValidators.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\utils\handleValidators.js">
+        <metrics statements="8" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="nodeJsConMongoApiRest.validators">
+      <metrics statements="20" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="3"/>
+      <file name="auth.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\validators\auth.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="36" count="3" type="stmt"/>
+        <line num="40" count="3" type="stmt"/>
+      </file>
+      <file name="storage.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\validators\storage.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+      </file>
+      <file name="tracks.js" path="C:\Users\herna\OneDrive\Documentos\UDEMY\nodeJsConMongoApiRest\validators\tracks.js">
+        <metrics statements="9" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="44" count="3" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="53" count="3" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="97" count="3" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

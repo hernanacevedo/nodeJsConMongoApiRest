@@ -1,0 +1,8 @@
+usuario mongo
+hernanacevedo704
+KCebo9zKJVbZBvfS
+iOVdzmuBoMuLDVit
+
+mongodb+srv://hernanacevedo704:<KCebo9zKJVbZBvfS>@cluster0.h6ucc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+/* DB_URI= mongodb+srv://hernanacevedo704:<KCebo9zKJVbZBvfS>@cluster0.h6ucc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
